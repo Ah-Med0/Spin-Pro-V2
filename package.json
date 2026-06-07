@@ -1,0 +1,32 @@
+{
+  "name": "Pro-Spin-V2",
+  "version": "2.0.0",
+  "description": "Discord bot for tracking invites and managing a reward system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "build": "node build.js",
+    "restore": "copy /Y index.js.bak index.js & copy /Y database.js.bak database.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "invites",
+    "rewards",
+    "points"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.6.1"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^5.4.3",
+    "nodemon": "^3.1.9"
+  }
+}
