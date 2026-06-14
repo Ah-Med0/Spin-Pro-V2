@@ -1,4 +1,7 @@
 module.exports = {
+    // ─── توكن البوت (ضع التوكن هنا) ───
+    token: 'YOUR_BOT_TOKEN',
+
     // ─── Log ───
     channels: {
         inviteLogChannelId: 'YOUR_INVITE_LOG_CHANNEL_ID', // قناة تسجيل الدعوات (ليست قناة الدعوات، بل قناة تسجل فيها الدعوات)
