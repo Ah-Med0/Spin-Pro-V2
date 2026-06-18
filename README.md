@@ -72,8 +72,8 @@
 
 2. قم بتنزيل أو استنساخ هذا المشروع:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/Ah-Med0/Spin-Pro-V2.git
+   cd Spin-Pro-V2
    ```
 
 3. قم بتثبيت الاعتماديات:
